@@ -21,5 +21,4 @@ Record
 Add Data
 ![alt text](https://github.com/primusnathan/Praktikum3/blob/master/Screenshot/Modul6AddData.png)
 
-Database
-![alt text](https://github.com/primusnathan/Praktikum3/blob/master/Screenshot/Modul6DB.png)
+
